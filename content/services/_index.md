@@ -22,6 +22,6 @@ I also contract with clients on specific deliverables and projects as it relates
 
 
 **Past Clients include:**
-* Bounce Exchange - a [$100MM ARR](https://techcrunch.com/2020/02/25/new-yorks-bouncex-reaches-100m-arr-rebrands/) performance marketing technology provider which serves over 300 of the world's largest brands
+* [Bounce Exchange](https://www.bouncex.com/) - a [$100MM ARR](https://techcrunch.com/2020/02/25/new-yorks-bouncex-reaches-100m-arr-rebrands/) performance marketing technology provider which serves over 300 of the world's largest brands
 * [Unchained Capital](https://unchained-capital.com/) — a startup financial services firm focused on bitcoin and cryptographic assets
-* Vulcanize - a blockchain infrastructure group researching and developing open source technology, mostly in the Ethereum ecosystem. [VulcanizeDB](https://github.com/vulcanize/vulcanizedb) is the caching framework utilized by [MakerDAO](https://blog.makerdao.com/the-road-to-mainnet-release/) and other projects; it received a grant from the [Ethereum Foundation](https://blog.ethereum.org/2018/10/15/ethereum-foundation-grants-update-wave-4/). 
+* [Vulcanize](https://github.com/vulcanize/vulcanizedb) - a blockchain infrastructure group researching and developing open source technology, mostly in the [Ethereum ecosystem](https://decrypt.co/6136/vulcanize-rick-dudley-ethereum-roadmap-makerdao-polkadot). VulcanizeDB is the caching framework utilized by [MakerDAO](https://blog.makerdao.com/the-road-to-mainnet-release/) and other projects; it received a grant from the [Ethereum Foundation](https://blog.ethereum.org/2018/10/15/ethereum-foundation-grants-update-wave-4/). 
