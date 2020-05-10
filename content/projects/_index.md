@@ -14,7 +14,7 @@ A number of my personal projects and experiments include the following. Read mor
 ## 2019
 **Refactor Camp 2019** — Refactor Camp is a conference from the Ribbonfarm community. I had the honor of being a core organizer for [2019](https://www.ribbonfarm.com/2019/06/20/reflections-on-refactor-camp-2019/). I particularly recommend [watching](https://www.youtube.com/channel/UCJuBuwyTnr7XrMQia2Rw_bw) the keynotes by [Sarah Perry](https://www.youtube.com/watch?v=GK-EzsD3-U0) and [Tiago Forte](https://www.youtube.com/watch?v=pR_jtqLBuWw).
 
-**Prototyping Permanent Cultures** — was a [talk](https://www.youtube.com/watch?v=JUJFhersu1g) I gave at [Trust](https://trust.support/), a Berlin-based "incubator for utopian conspiracy". In this presentation, I offer the sketch of a framework for defining permanent cultures and how they might address existential problems of our times (climate change, cost disease, etc.).
+**Prototyping Permanent Cultures** — was a [talk](https://www.youtube.com/watch?v=JUJFhersu1g) given at [Trust](https://trust.support/), a Berlin-based "incubator for utopian conspiracy". In this presentation, I offer the sketch of a framework for defining permanent cultures and how they might address existential problems of our times (climate change, cost disease, etc.).
 
 **Surveying Financial Manias** — was an [Other Internet workshop](https://otherinter.net/workshops/Financial-Manias) taught by [Byrne Hobart](https://twitter.com/byrnehobart) covering theories of financial bubbles and case studies through history. I provided logistical support and acted as TA.
 

@@ -7,7 +7,7 @@ sort_by = "weight"
 
 +++
 
-hello and welcome to *Varietal Digital*, a product & strategy studio. my name is [Darren Kong](@/about/_index.md), and *Varietal* is a home to my [consulting practice](@/services/_index.md),[projects & experiments](@/projects/_index.md), and [writing](@/writing/_index.md).
+hello and welcome to *Varietal Digital*, a product & strategy studio. my name is [Darren Kong](@/about/_index.md), and *Varietal* is a home to my [consulting practice](@/services/_index.md), [projects & experiments](@/projects/_index.md), [recommended resources & reading](@/resources/_index.md), and [writing](@/writing/_index.md).
 
 
 please send mail to varietaldigital [at] gmail.com
