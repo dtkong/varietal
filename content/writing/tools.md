@@ -1,12 +1,12 @@
 +++
 title = "Tools for the Bi-cameral Mind"
 description = "An essay on a theory of tools and self"
-weight=2
+weight=3
 sort_by = "weight"
 
 +++
 
-**Status:** draft, synthesizing some theories and how they relate to self and tools
+**Status:** early early draft, synthesizing some theories and how they relate to self and tools
 
 Human tools have co-evolved with our species for, possibly, hundreds of thousands of years. 
 
