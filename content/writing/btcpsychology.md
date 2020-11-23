@@ -1,4 +1,12 @@
-+++ title = "we're still early days & the psychology of btc" description = "a memo on bitcoin" weight=2 sort_by = "weight"
++++
+
+ title = "we're still early days & the psychology of btc" 
+
+description = "a memo on bitcoin" 
+
+weight=2 
+
+sort_by = "weight"
 
 +++
 
